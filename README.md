@@ -1,2 +1,2 @@
 # ibank
-Web
+web
